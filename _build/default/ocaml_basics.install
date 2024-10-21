@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/ocaml_basics/META"
+  "_build/install/default/lib/ocaml_basics/dune-package"
+  "_build/install/default/lib/ocaml_basics/opam"
+]
+bin: [
+  "_build/install/default/bin/ocaml_basics"
+]
